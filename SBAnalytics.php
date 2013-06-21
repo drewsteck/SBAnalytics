@@ -1,9 +1,9 @@
 <?php
 
-define('ga_email','YOUR USERNAME');
-define('ga_password','YOUR PASSWORD');
-define('ga_profile_id',$_GET['profile']);
-define('ga_title',$_GET['title']);
+define('ga_email'greatescapemidwest@gmail.com');
+define('ga_password','funteamm');
+define('ga_profile_id',$_GET['UA-41929129-2']);
+define('ga_title',$_GET['YouTube']);
 
 require 'class_gapi.php';
 
